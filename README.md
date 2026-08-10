@@ -27,3 +27,9 @@ Original scripts and translation text created for this project are available und
 This project is provided as-is, without warranty. Use it at your own risk.
 
 本项目按“原样”提供，不作任何担保，使用风险由使用者自行承担。
+
+## Release 1.0.1022
+
+This branch contains the installable localization package for Renegade X Release 1.0.1022. The binary game packages are stored with Git LFS and keep their original filenames. Read [README.txt](README.txt) before installing.
+
+本分支包含适用于 Renegade X Release 1.0.1022 的可安装汉化文件。游戏二进制包通过 Git LFS 保存，并保留原始文件名。安装前请阅读 [README.txt](README.txt)。
