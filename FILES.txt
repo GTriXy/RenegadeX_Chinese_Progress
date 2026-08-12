@@ -1,3 +1,4 @@
+UDKGame/CookedPC/Engine.u
 UDKGame/CookedPC/RenX_Game.u
 UDKGame/CookedPC/Startup.upk
 UDKGame/CookedPC/Shared/UDKFonts.upk
