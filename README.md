@@ -12,6 +12,7 @@ Translation packages are maintained in branches named after the compatible Reneg
 
 | Game version / 游戏版本 | Branch / 分支 | Status / 状态 |
 | --- | --- | --- |
+| Release 1.1.1094 | [`1.1.1094`](../../tree/1.1.1094) | Work in progress / 持续完善中 |
 | Release 1.0.1022 | [`1.0.1022`](../../tree/1.0.1022) | Work in progress / 持续完善中 |
 
 The `main` branch only contains project information and licensing. Installable files are kept in the version branches.
@@ -28,8 +29,8 @@ This project is provided as-is, without warranty. Use it at your own risk.
 
 本项目按“原样”提供，不作任何担保，使用风险由使用者自行承担。
 
-## Release 1.0.1022
+## Release 1.1.1094
 
-This branch contains the installable localization package for Renegade X Release 1.0.1022. The binary game packages are stored with Git LFS and keep their original filenames. Read [README.txt](README.txt) before installing.
+This branch contains the installable localization package for Renegade X Release 1.1.1094. The binary game packages are stored with Git LFS and keep their original filenames. Read [README.txt](README.txt) before installing.
 
-本分支包含适用于 Renegade X Release 1.0.1022 的可安装汉化文件。游戏二进制包通过 Git LFS 保存，并保留原始文件名。安装前请阅读 [README.txt](README.txt)。
+本分支包含适用于 Renegade X Release 1.1.1094 的可安装汉化文件。游戏二进制包通过 Git LFS 保存，并保留原始文件名。安装前请阅读 [README.txt](README.txt)。

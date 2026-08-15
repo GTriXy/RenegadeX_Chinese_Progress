@@ -2,7 +2,6 @@ UDKGame/CookedPC/Engine.u
 UDKGame/CookedPC/RenX_Game.u
 UDKGame/CookedPC/Startup.upk
 UDKGame/CookedPC/Shared/UDKFonts.upk
-UDKGame/CookedPC/EngineFonts_RUS.upk
 UDKGame/CookedPC/GFx/RenXResources.upk
 UDKGame/CookedPC/RenX/GFx/RenXAdminMessage.upk
 UDKGame/CookedPC/RenX/GFx/RenXFrontEnd.upk
