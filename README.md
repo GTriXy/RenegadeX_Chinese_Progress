@@ -13,7 +13,7 @@ Translation packages are maintained in branches named after the compatible Reneg
 | Game version / 游戏版本 | Branch / 分支 | Status / 状态 |
 | --- | --- | --- |
 | Release 1.1.1094 | [`1.1.1094`](../../tree/1.1.1094) | Work in progress / 持续完善中 |
-| Release 1.0.1022 | [`1.0.1022`](../../tree/1.0.1022) | Work in progress / 持续完善中 |
+| Release 1.0.1022 | [`1.0.1022`](../../tree/1.0.1022) | End of maintenance / 停止维护 |
 
 The `main` branch only contains project information and licensing. Installable files are kept in the version branches.
 
