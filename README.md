@@ -21,9 +21,9 @@ The `main` branch only contains project information and licensing. Installable f
 
 ## License and notice / 许可与说明
 
-Original scripts and translation text created for this project are available under the [MIT License](LICENSE). Renegade X game assets and HarmonyOS Sans remain the property of their respective rights holders and are subject to their own terms. This is an unofficial community project and is not affiliated with the Renegade X development team.
+Original scripts and translation text created for this project are available under the [CC BY-NC 4.0 License](LICENSE). Commercial use, sale, and distribution primarily intended for monetary compensation are not permitted. Renegade X game assets and HarmonyOS Sans remain the property of their respective rights holders and are subject to their own terms. This is an unofficial community project and is not affiliated with the Renegade X development team.
 
-本项目原创脚本与翻译文本采用 [MIT License](LICENSE)。Renegade X 游戏资源及 HarmonyOS Sans 字体仍归各自权利人所有，并遵循各自条款。本项目为非官方社区项目，与 Renegade X 开发团队无隶属关系。
+本项目原创脚本与翻译文本采用 [CC BY-NC 4.0 许可证](LICENSE)。禁止商业使用、销售，以及主要以获得金钱补偿为目的的分发。Renegade X 游戏资源及 HarmonyOS Sans 字体仍归各自权利人所有，并遵循各自条款。本项目为非官方社区项目，与 Renegade X 开发团队无隶属关系。
 
 This project is provided as-is, without warranty. Use it at your own risk.
 
