@@ -12,6 +12,7 @@ Translation packages are maintained in branches named after the compatible Reneg
 
 | Game version / 游戏版本 | Branch / 分支 | Status / 状态 |
 | --- | --- | --- |
+| Release 1.2.1109 | [`1.2.1109`](../../tree/1.2.1109) | Migration in progress / 迁移进行中 |
 | Release 1.1.1094 | [`1.1.1094`](../../tree/1.1.1094) | Work in progress / 持续完善中 |
 | Release 1.0.1022 | [`1.0.1022`](../../tree/1.0.1022) | End of maintenance / 停止维护 |
 
@@ -28,6 +29,12 @@ Original scripts and translation text created for this project are available und
 This project is provided as-is, without warranty. Use it at your own risk.
 
 本项目按“原样”提供，不作任何担保，使用风险由使用者自行承担。
+
+## Release 1.2.1109
+
+This branch is the migration workspace for Renegade X Release 1.2.1109 (GameVersionNumber 18038). It currently inherits the last stable 1.1.1094 localization baseline; the package has not yet been revalidated against the updated game files. Do not install this branch over the 1.2.1109 client until the package hashes and in-game behavior have been checked.
+
+本分支用于迁移到 Renegade X Release 1.2.1109（GameVersionNumber 18038）。当前内容继承自已验证的 1.1.1094 汉化基线，尚未针对新版游戏文件重新验证。完成文件哈希和实机行为检查前，请不要将本分支覆盖安装到 1.2.1109 客户端。
 
 ## Release 1.1.1094
 
