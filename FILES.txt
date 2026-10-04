@@ -1,4 +1,5 @@
 UDKGame/CookedPC/Engine.u
+UDKGame/CookedPC/EngineFonts.upk
 UDKGame/CookedPC/EngineFonts_CHN.upk
 UDKGame/CookedPC/EngineFonts_RUS.upk
 UDKGame/CookedPC/RenX_Game.u
